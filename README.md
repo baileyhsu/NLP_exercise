@@ -5,7 +5,7 @@ Here we first read in the tab separated dataset and then we need to clean up the
 1. lower case every word in a string
 2. split the string to a list of words
 2. remove stopwords using nltk tool set
-3. keep letters only, remove punctuation using re class
+3. keep letters only, remove punctuation using re(regular expression) class
 4. join the words and append to the complete list
 
 
